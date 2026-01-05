@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "../counter/Counter.css";
 
 const Counter = () => {
-  const [count, setcount] = useState(0);
+  const [count, setcount] = useState(100);
   return (
     <div className="counter">
       <h1>{count}</h1>
