@@ -1,5 +1,4 @@
-
-# 🟦 Why was React created?
+🟦 Why was React created?
 
 Facebook was facing a big problem:
 
@@ -27,25 +26,31 @@ In **2013**, a Facebook engineer **Jordan Walke** created a solution:
 # 1️⃣ What is React?
 
 ## 1. Definition
+
 React is a **JavaScript library** used to build **User Interfaces (UI)**.
 
 ## 2. Developer
+
 Developed by **Facebook (Meta)**.
 
 ## 3. Architecture
+
 React uses a **component-based architecture**:
 
 - The UI is broken into **small, reusable parts** called components.
 
 ## 4. Speed
+
 React uses **Virtual DOM**.
 
 ### Benefits:
+
 - Only the **changed part** is re-rendered
 - The whole UI is **not refreshed**
 - The app feels **fast and smooth**
 
 ## 5. SPA Support
+
 With React, we can build **Single Page Applications (SPA)**:
 
 - No full page reload
@@ -53,12 +58,14 @@ With React, we can build **Single Page Applications (SPA)**:
 - User experience is **very smooth**
 
 ## 6. Focus
+
 React handles only the **UI (View layer)**.
 
 For other things like:
+
 - Data handling
 - Routing
-- Backend  
+- Backend
 
 we use **other tools and libraries**.
 
@@ -68,13 +75,13 @@ we use **other tools and libraries**.
 
 Imagine the WhatsApp Web interface:
 
-- Header → a component  
-- Chat list → a component  
-- Chat window → a component  
+- Header → a component
+- Chat list → a component
+- Chat window → a component
 
 When you send a message:
 
-- Only the **Chat window** updates  
+- Only the **Chat window** updates
 - Header and Chat list **do not change**
 
 This is exactly how **component-based structure + Virtual DOM** works.
