@@ -27,6 +27,7 @@ When something changes, only the changed part is updated in the real DOM
 The full page does not refresh → UI becomes fast and real-time
 
 1️⃣ What is React?
+
 1. Definition
 
 React is a JavaScript library used to build User Interfaces (UI).
