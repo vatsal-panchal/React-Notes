@@ -1,4 +1,4 @@
-## 🟦 Why was React created?
+##  Why was React created?
 
 Facebook was facing a big problem:
 
@@ -13,7 +13,7 @@ In **2013**, a Facebook engineer **Jordan Walke** created a solution:
 
 ---
 
-## ✨ What makes React special?
+##  What makes React special?
 
 - React does **not directly update the real DOM**
 - It keeps its own **Virtual DOM**
@@ -23,7 +23,7 @@ In **2013**, a Facebook engineer **Jordan Walke** created a solution:
 
 ---
 
-# 1️⃣ What is React?
+# 1️ What is React?
 
 ## 1. Definition
 
@@ -71,7 +71,7 @@ we use **other tools and libraries**.
 
 ---
 
-## 🔍 Example (Theory): WhatsApp Web
+##  Example (Theory): WhatsApp Web
 
 Imagine the WhatsApp Web interface:
 
@@ -88,7 +88,7 @@ This is exactly how **component-based structure + Virtual DOM** works.
 
 ---
 
-## ⭐ Key Takeaways
+##  Key Takeaways
 
 - React = **Fast, component-based UI library**
 - Virtual DOM = **Smart DOM updates → only changed parts are updated**
