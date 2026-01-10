@@ -39,7 +39,7 @@ export default App;
 
 ---
 
-## 🔍 Explanation
+##  Explanation
 
 - `useState(0)` → creates a state with initial value `0`  
 - `count` → the state variable (stores the value)  
@@ -50,7 +50,7 @@ export default App;
 
 ---
 
-## 🧪 What happens on Button Click?
+##  What happens on Button Click?
 
 - Click `+` → `count` increases by 1  
 - Click `-` → `count` decreases by 1  
