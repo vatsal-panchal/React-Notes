@@ -1,4 +1,4 @@
-#  React Export Methods (Simple & Clear)
+#  React Export Methods 
 
 In React (and JavaScript), there are **two ways to export** things from a file:
 
